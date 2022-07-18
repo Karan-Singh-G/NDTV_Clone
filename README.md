@@ -13,7 +13,7 @@ netlify link - https://csb-tdbg0f.netlify.app/
 
 github - https://github.com/huzaifa621/ndtv.git
 
-video - https://drive.google.com/file/d/1xWJ3aeB1LXeU2szBeBg0-ZNBa3ZUvDPN/view?usp=sharing
+
 
 
 ## Screenshots
