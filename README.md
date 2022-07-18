@@ -11,7 +11,7 @@ NDTV was founded in 1984, by economist Prannoy Roy and journalist Radhika Roy, a
 ## 🔗 Links
 netlify link - https://csb-tdbg0f.netlify.app/
 
-github - https://github.com/huzaifa621/ndtv.git
+
 
 
 
