@@ -39,16 +39,5 @@ video - https://drive.google.com/file/d/1xWJ3aeB1LXeU2szBeBg0-ZNBa3ZUvDPN/view?u
 Javascript, HTML, CSS...
 
 
-## TEAM MEMBERS
-
-Pratik Mendhey
-
-Akash Kumar
-
-Anuj Sharma
-
-Huzaifa Sheikh
-
-Harish Kumar
 
 
